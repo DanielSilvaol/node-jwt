@@ -1,0 +1,10 @@
+{
+  "env": {
+    "node": true,
+    "es6": true
+  },
+  "extends": "eslint:recommended",
+  "rules": {
+    // Adicione regras específicas do seu projeto aqui
+  }
+}
